@@ -73,6 +73,7 @@ CV-DeepLearning-Library/
 │
 └── README.md
 
+```
 
 Each folder represents a logical learning stage, progressing from fundamental
 operations to higher-level architectural and optimization strategies.
